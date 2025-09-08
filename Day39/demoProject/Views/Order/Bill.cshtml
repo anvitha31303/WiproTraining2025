@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Bill";
+    dynamic bill = Model; // contains Customer, Items, Subtotal, Tax, Total
+}
+<h3>Billing Page</h3>
+
+<div class="mb-3">
+    <strong>Name:</strong> @bill.Customer.CustomerName <br />
+    <strong>Phone:</strong> @bill.Customer.Phone <br />
+    <strong>Address:</strong> @bill.Customer.Address, @bill.Customer.City
+</div>
+
+<table class="table">
+    <thead>
+        <tr><th>Item</th><th>Price</th><th>Qty</th><th>Line Total</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var it in bill.Items)
+        {
+            <tr>
+                <td>@it.ProductName</td>
+                <td>₹ @it.UnitPrice</td>
+                <td>@it.Quantity</td>
+                <td>₹ @it.LineTotal</td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr><th colspan="3" class="text-end">Subtotal</th><th>₹ @bill.Subtotal</th></tr>
+        <tr><th colspan="3" class="text-end">Tax (10%)</th><th>₹ @bill.Tax</th></tr>
+        <tr><th colspan="3" class="text-end">Grand Total</th><th>₹ @bill.Total</th></tr>
+    </tfoot>
+</table>
+
+<div class="mt-3">
+    <a class="btn btn-primary" asp-controller="Home" asp-action="Index">Back to Home</a>
+</div>

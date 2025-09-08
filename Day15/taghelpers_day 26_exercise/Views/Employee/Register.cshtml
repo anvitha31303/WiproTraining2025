@@ -1,0 +1,62 @@
+﻿@model taghelpers_day_26_exercise.Models.Employee
+@{
+    ViewData["Title"] = "Employee Registration";
+}
+
+<h2>Employee Registration Form</h2>
+
+<form asp-action="Register" method="post">
+    <div>
+        <label asp-for="EmployeeId"></label>
+        <input asp-for="EmployeeId" class="form-control" />
+        <span asp-validation-for="EmployeeId" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="City">Select City</label>
+        <select asp-for="City" class="form-control">
+            <option value="">-- Select City --</option>
+            <option>Bengaluru</option>
+            <option>Chennai</option>
+            <option>Hyderabad</option>
+            <option>Mumbai</option>
+            <option>Delhi</option>
+            <option>Kolkata</option>
+        </select>
+        <span asp-validation-for="City" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label>Gender</label><br />
+        <input type="radio" asp-for="Gender" value="Male" /> Male
+        <input type="radio" asp-for="Gender" value="Female" /> Female
+        <span asp-validation-for="Gender" class="text-danger"></span>
+    </div>
+
+    <div>
+        <input type="checkbox" asp-for="Qualification" />
+        <label asp-for="Qualification">I have a qualification</label>
+        <span asp-validation-for="Qualification" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

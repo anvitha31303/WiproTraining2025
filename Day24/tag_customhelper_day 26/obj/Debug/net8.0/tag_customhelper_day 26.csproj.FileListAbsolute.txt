@@ -1,0 +1,42 @@
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\appsettings.json
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\tag_customhelper_day 26.staticwebassets.runtime.json
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\tag_customhelper_day 26.staticwebassets.endpoints.json
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\tag_customhelper_day 26.exe
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\tag_customhelper_day 26.deps.json
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\tag_customhelper_day 26.runtimeconfig.json
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\tag_customhelper_day 26.dll
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\tag_customhelper_day 26.pdb
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\System.Web.Mvc.dll
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\System.Web.Razor.dll
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\System.Web.Helpers.dll
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\System.Web.WebPages.dll
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\tag_customhelper_day 26.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\tag_customhelper_day 26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\tag_customhelper_day 26.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\tag_customhelper_day 26.AssemblyInfo.cs
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\tag_customhelper_day 26.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\tag_customhelper_day 26.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\tag_customhelper_day 26.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\tag_customhelper_day 26.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\scopedcss\bundle\tag_customhelper_day 26.styles.css
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\scopedcss\projectbundle\tag_customhelper_day 26.bundle.scp.css
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\tag_cust.5ED10991.Up2Date
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\tag_customhelper_day 26.dll
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\refint\tag_customhelper_day 26.dll
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\tag_customhelper_day 26.pdb
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\tag_customhelper_day 26.genruntimeconfig.cache
+C:\Users\hp\source\repos\tag_customhelper_day 26\tag_customhelper_day 26\obj\Debug\net8.0\ref\tag_customhelper_day 26.dll

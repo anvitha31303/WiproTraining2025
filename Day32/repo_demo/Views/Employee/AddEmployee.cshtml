@@ -1,0 +1,33 @@
+@model repo_demo.Models.Employee
+
+@{
+    ViewData["Title"] = "Add Employee";
+}
+
+<div align="center">
+    <h3>Add New Employee</h3>
+
+    @using (Html.BeginForm("AddEmployee", "Employee", FormMethod.Post))
+    {
+        <table cellpadding="5" border="1">
+            <tr>
+                <td>Employee Name:</td>
+                <td>@Html.TextBoxFor(m => m.EmployeeName, new { @class = "form-control" })</td>
+            </tr>
+            <tr>
+                <td>Address:</td>
+                <td>@Html.TextBoxFor(m => m.Address, new { @class = "form-control" })</td>
+            </tr>
+            <tr>
+                <td>Email Id:</td>
+                <td>@Html.TextBoxFor(m => m.EmailId, new { @class = "form-control", type="email" })</td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="submit" value="Save" class="btn btn-success" />
+                    <a href="@Url.Action("Index", "Employee")" class="btn btn-secondary">Cancel</a>
+                </td>
+            </tr>
+        </table>
+    }
+</div>

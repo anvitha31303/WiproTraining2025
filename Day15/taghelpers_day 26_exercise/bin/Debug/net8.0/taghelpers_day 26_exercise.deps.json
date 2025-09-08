@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "taghelpers_day 26_exercise/1.0.0": {
+        "runtime": {
+          "taghelpers_day 26_exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "taghelpers_day 26_exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

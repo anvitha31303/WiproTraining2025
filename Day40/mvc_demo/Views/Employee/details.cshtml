@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model mvc_demo.Models.Employee
+<h1> Welcome to Employee Controller </h1>
+
+@{
+    for (int i = 0; i < 10; i++)
+    {
+        <p>Value of i (for loop) is @i</p>
+
+
+    }
+    int j = 0;
+
+while (j<10)
+
+{
+
+<p> Value of j (while loop)is @j</p>
+j++;
+}
+
+}
+<html>
+    <head>
+        <title>Employee Details</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAq6z5l5d5e5d5e5d5e5d5e5d5e5d" crossorigin="anonymous">
+        <style>
+            body{
+                background-color:bisque;
+
+            }
+            @* h1{
+                color:red;
+            } *@
+            p{
+                color:green;
+            }
+            </style>
+    </head>
+    <body>
+        <h1> Employee details</h1>
+        <hr/>
+<p> Employee id is @Model.empid</p>
+
+<p> Employee firstname is @Model.firstname</p>
+
+<p> Employee lastname is @Model.lastname</p>
+
+<p> Employee city is @Model.city</p>
+</body>
+</html>

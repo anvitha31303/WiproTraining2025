@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E22BCD30-3DE8-497E-A083-2EB15C6F47A5}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\source\\repos\\consoleapp2\\consoleapp2\\isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22BCD30-3DE8-497E-A083-2EB15C6F47A5}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22BCD30-3DE8-497E-A083-2EB15C6F47A5}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\source\\repos\\consoleapp2\\consoleapp2\\dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22BCD30-3DE8-497E-A083-2EB15C6F47A5}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22BCD30-3DE8-497E-A083-2EB15C6F47A5}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\source\\repos\\consoleapp2\\consoleapp2\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22BCD30-3DE8-497E-A083-2EB15C6F47A5}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22BCD30-3DE8-497E-A083-2EB15C6F47A5}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\source\\repos\\consoleapp2\\consoleapp2\\onlineshoppingex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22BCD30-3DE8-497E-A083-2EB15C6F47A5}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\onlineshoppingex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22BCD30-3DE8-497E-A083-2EB15C6F47A5}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\source\\repos\\consoleapp2\\consoleapp2\\solid_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22BCD30-3DE8-497E-A083-2EB15C6F47A5}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\solid_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22BCD30-3DE8-497E-A083-2EB15C6F47A5}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hp\\source\\repos\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22BCD30-3DE8-497E-A083-2EB15C6F47A5}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 251,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISP.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ISP.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ISP.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ISP.cs",
+              "RelativeToolTip": "ConsoleApp2\\ISP.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:14:46.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DIP.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ConsoleApp2\\ConsoleApp2\\DIP.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\DIP.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ConsoleApp2\\ConsoleApp2\\DIP.cs",
+              "RelativeToolTip": "ConsoleApp2\\DIP.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:08:07.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OCP.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ConsoleApp2\\ConsoleApp2\\OCP.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\OCP.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ConsoleApp2\\ConsoleApp2\\OCP.cs",
+              "RelativeToolTip": "ConsoleApp2\\OCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:07:55.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OnlineShoppingEx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ConsoleApp2\\ConsoleApp2\\OnlineShoppingEx.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\OnlineShoppingEx.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ConsoleApp2\\ConsoleApp2\\OnlineShoppingEx.cs",
+              "RelativeToolTip": "ConsoleApp2\\OnlineShoppingEx.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAwEIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T03:25:49.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "solid_demo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ConsoleApp2\\ConsoleApp2\\solid_demo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\solid_demo.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ConsoleApp2\\ConsoleApp2\\solid_demo.cs",
+              "RelativeToolTip": "ConsoleApp2\\solid_demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:38:06.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAiwJ0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T08:05:03.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

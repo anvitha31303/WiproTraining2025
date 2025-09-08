@@ -1,0 +1,33 @@
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\bin\Debug\net8.0\appsettings.json
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\bin\Debug\net8.0\taghelpers_day 26_exercise.staticwebassets.runtime.json
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\bin\Debug\net8.0\taghelpers_day 26_exercise.staticwebassets.endpoints.json
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\bin\Debug\net8.0\taghelpers_day 26_exercise.exe
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\bin\Debug\net8.0\taghelpers_day 26_exercise.deps.json
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\bin\Debug\net8.0\taghelpers_day 26_exercise.runtimeconfig.json
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\bin\Debug\net8.0\taghelpers_day 26_exercise.dll
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\bin\Debug\net8.0\taghelpers_day 26_exercise.pdb
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\taghelpers_day 26_exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\taghelpers_day 26_exercise.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\taghelpers_day 26_exercise.AssemblyInfo.cs
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\taghelpers_day 26_exercise.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\taghelpers_day 26_exercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\taghelpers_day 26_exercise.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\taghelpers_day 26_exercise.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\scopedcss\bundle\taghelpers_day 26_exercise.styles.css
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\scopedcss\projectbundle\taghelpers_day 26_exercise.bundle.scp.css
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\taghelpers_day 26_exercise.dll
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\refint\taghelpers_day 26_exercise.dll
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\taghelpers_day 26_exercise.pdb
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\taghelpers_day 26_exercise.genruntimeconfig.cache
+C:\Users\hp\source\repos\taghelpers_day 26_exercise\taghelpers_day 26_exercise\obj\Debug\net8.0\ref\taghelpers_day 26_exercise.dll

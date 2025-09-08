@@ -1,0 +1,29 @@
+﻿@model demoProject.Models.Orders
+@{
+    ViewData["Title"] = "Order Details";
+}
+<h3>Order Details</h3>
+<p class="text-muted">Cart Total: ₹ @ViewBag.CartTotal</p>
+
+<form asp-action="Checkout" method="post" class="row g-3">
+    <div class="col-md-6">
+        <label class="form-label">Customer Name</label>
+        <input asp-for="CustomerName" class="form-control" required />
+    </div>
+    <div class="col-md-6">
+        <label class="form-label">Phone</label>
+        <input asp-for="Phone" class="form-control" required />
+    </div>
+    <div class="col-12">
+        <label class="form-label">Address</label>
+        <input asp-for="Address" class="form-control" required />
+    </div>
+    <div class="col-md-6">
+        <label class="form-label">City</label>
+        <input asp-for="City" class="form-control" required />
+    </div>
+    <div class="col-12">
+        <button class="btn btn-primary">Confirm Order</button>
+        <a class="btn btn-outline-secondary" asp-controller="Cart" asp-action="Index">Back to Cart</a>
+    </div>
+</form>

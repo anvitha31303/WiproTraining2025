@@ -1,0 +1,33 @@
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\mvc_filters_day 28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\mvc_filters_day 28.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\mvc_filters_day 28.AssemblyInfo.cs
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\mvc_filters_day 28.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\mvc_filters_day 28.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\mvc_filters_day 28.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\mvc_filters_day 28.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\bin\Debug\net8.0\appsettings.json
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\bin\Debug\net8.0\mvc_filters_day 28.staticwebassets.runtime.json
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\bin\Debug\net8.0\mvc_filters_day 28.staticwebassets.endpoints.json
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\bin\Debug\net8.0\mvc_filters_day 28.exe
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\bin\Debug\net8.0\mvc_filters_day 28.deps.json
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\bin\Debug\net8.0\mvc_filters_day 28.runtimeconfig.json
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\bin\Debug\net8.0\mvc_filters_day 28.dll
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\bin\Debug\net8.0\mvc_filters_day 28.pdb
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\scopedcss\bundle\mvc_filters_day 28.styles.css
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\scopedcss\projectbundle\mvc_filters_day 28.bundle.scp.css
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\mvc_filters_day 28.dll
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\refint\mvc_filters_day 28.dll
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\mvc_filters_day 28.pdb
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\mvc_filters_day 28.genruntimeconfig.cache
+C:\Users\hp\source\repos\mvc_filters_day 28\mvc_filters_day 28\obj\Debug\net8.0\ref\mvc_filters_day 28.dll

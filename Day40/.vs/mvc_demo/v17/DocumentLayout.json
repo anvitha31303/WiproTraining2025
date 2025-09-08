@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\mvc_demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|c:\\users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\views\\employee\\create_employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|solutionrelative:mvc_demo\\views\\employee\\create_employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|c:\\users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|solutionrelative:mvc_demo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|c:\\users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\views\\employee\\viewdemo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|solutionrelative:mvc_demo\\views\\employee\\viewdemo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|c:\\users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\views\\shared\\ibmview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|solutionrelative:mvc_demo\\views\\shared\\ibmview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|c:\\users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|solutionrelative:mvc_demo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|c:\\users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|solutionrelative:mvc_demo\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|c:\\users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|solutionrelative:mvc_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|c:\\users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\views\\home\\wipropage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFAB4CF9-DAAD-4915-ABFA-8BCA15C04FBC}|mvc_demo\\mvc_demo.csproj|solutionrelative:mvc_demo\\views\\home\\wipropage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "create_employee.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Views\\Employee\\create_employee.cshtml",
+              "RelativeDocumentMoniker": "mvc_demo\\Views\\Employee\\create_employee.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Views\\Employee\\create_employee.cshtml",
+              "RelativeToolTip": "mvc_demo\\Views\\Employee\\create_employee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T09:19:59.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "viewdemo.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Views\\Employee\\viewdemo.cshtml",
+              "RelativeDocumentMoniker": "mvc_demo\\Views\\Employee\\viewdemo.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Views\\Employee\\viewdemo.cshtml",
+              "RelativeToolTip": "mvc_demo\\Views\\Employee\\viewdemo.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T09:15:20.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc_demo\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "mvc_demo\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T08:08:16.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IbmView.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Views\\Shared\\IbmView.cshtml",
+              "RelativeDocumentMoniker": "mvc_demo\\Views\\Shared\\IbmView.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Views\\Shared\\IbmView.cshtml",
+              "RelativeToolTip": "mvc_demo\\Views\\Shared\\IbmView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T07:39:11.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Views\\Employee\\details.cshtml",
+              "RelativeDocumentMoniker": "mvc_demo\\Views\\Employee\\details.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Views\\Employee\\details.cshtml",
+              "RelativeToolTip": "mvc_demo\\Views\\Employee\\details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T06:13:44.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "mvc_demo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "mvc_demo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:14:33.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvc_demo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvc_demo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T06:26:13.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "wipropage.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Views\\Home\\wipropage.cshtml",
+              "RelativeDocumentMoniker": "mvc_demo\\Views\\Home\\wipropage.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\mvc_demo\\mvc_demo\\Views\\Home\\wipropage.cshtml",
+              "RelativeToolTip": "mvc_demo\\Views\\Home\\wipropage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T05:22:54.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

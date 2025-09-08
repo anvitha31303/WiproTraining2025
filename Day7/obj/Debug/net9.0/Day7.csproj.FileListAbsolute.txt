@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Desktop\wiprotraining\Day7\bin\Debug\net9.0\Day7.exe
+C:\Users\hp\OneDrive\Desktop\wiprotraining\Day7\bin\Debug\net9.0\Day7.deps.json
+C:\Users\hp\OneDrive\Desktop\wiprotraining\Day7\bin\Debug\net9.0\Day7.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\wiprotraining\Day7\bin\Debug\net9.0\Day7.dll
+C:\Users\hp\OneDrive\Desktop\wiprotraining\Day7\bin\Debug\net9.0\Day7.pdb
+C:\Users\hp\OneDrive\Desktop\wiprotraining\Day7\obj\Debug\net9.0\Day7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\wiprotraining\Day7\obj\Debug\net9.0\Day7.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\wiprotraining\Day7\obj\Debug\net9.0\Day7.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\wiprotraining\Day7\obj\Debug\net9.0\Day7.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\wiprotraining\Day7\obj\Debug\net9.0\Day7.dll
+C:\Users\hp\OneDrive\Desktop\wiprotraining\Day7\obj\Debug\net9.0\refint\Day7.dll
+C:\Users\hp\OneDrive\Desktop\wiprotraining\Day7\obj\Debug\net9.0\Day7.pdb
+C:\Users\hp\OneDrive\Desktop\wiprotraining\Day7\obj\Debug\net9.0\Day7.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\wiprotraining\Day7\obj\Debug\net9.0\ref\Day7.dll

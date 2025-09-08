@@ -1,0 +1,33 @@
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\bin\Debug\net8.0\appsettings.json
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\bin\Debug\net8.0\razor_recap_day 25.staticwebassets.runtime.json
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\bin\Debug\net8.0\razor_recap_day 25.staticwebassets.endpoints.json
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\bin\Debug\net8.0\razor_recap_day 25.exe
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\bin\Debug\net8.0\razor_recap_day 25.deps.json
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\bin\Debug\net8.0\razor_recap_day 25.runtimeconfig.json
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\bin\Debug\net8.0\razor_recap_day 25.dll
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\bin\Debug\net8.0\razor_recap_day 25.pdb
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\razor_recap_day 25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\razor_recap_day 25.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\razor_recap_day 25.AssemblyInfo.cs
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\razor_recap_day 25.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\razor_recap_day 25.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\razor_recap_day 25.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\razor_recap_day 25.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\scopedcss\bundle\razor_recap_day 25.styles.css
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\scopedcss\projectbundle\razor_recap_day 25.bundle.scp.css
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\razor_recap_day 25.dll
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\refint\razor_recap_day 25.dll
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\razor_recap_day 25.pdb
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\razor_recap_day 25.genruntimeconfig.cache
+C:\Users\hp\source\repos\razor_recap_day 25\razor_recap_day 25\obj\Debug\net8.0\ref\razor_recap_day 25.dll

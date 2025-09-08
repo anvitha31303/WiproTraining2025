@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Test</title>
+</head>
+<body>
+    <h1>Authentication Test</h1>
+
+    <h3>Login</h3>
+    <input type="text" id="username" placeholder="Username" value="admin">
+    <input type="password" id="password" placeholder="Password" value="password">
+    <button onclick="login()">Login</button>
+    <p id="loginResult"></p>
+
+    <h3>User Info</h3>
+    <button onclick="getMe()">Check Me</button>
+    <p id="meResult"></p>
+
+    <h3>Logout</h3>
+    <button onclick="logout()">Logout</button>
+    <p id="logoutResult"></p>
+
+    <script>
+    async function login() {
+        const username = document.getElementById('username').value;
+        const password = document.getElementById('password').value;
+
+        const response = await fetch('/login', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ username, password }),
+            credentials: 'include' // important!
+        });
+        document.getElementById('loginResult').innerText = await response.text();
+    }
+
+    async function getMe() {
+        const response = await fetch('/me', { credentials: 'include' });
+        if (response.ok) {
+            document.getElementById('meResult').innerText = await response.text();
+        } else {
+            document.getElementById('meResult').innerText = 'Unauthorized';
+        }
+    }
+
+    async function logout() {
+        const response = await fetch('/logout', { method: 'POST', credentials: 'include' });
+        document.getElementById('logoutResult').innerText = await response.text();
+    }
+</script>
+
+</body>
+</html>

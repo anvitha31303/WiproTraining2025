@@ -1,0 +1,53 @@
+﻿@page
+@model core_web_application.Pages.Index1Model
+@{
+}
+<h1>
+    WELCOMEEEEEE TO MY OWN Page
+</h1>
+<h2>@DateTime.Now.ToShortDateString()</h2>
+<h1>
+    MultiLine Expressions
+</h1>
+@{
+    var date=DateTime.Now.ToShortDateString();
+    var message="Helloooo";
+}
+<h2>
+    <h2> todayss date is:@date</h2>
+    <h3>@message</h3>
+</h2>
+
+<h1>
+    trying to call inside the block
+</h1>
+@{
+    var date1=DateTime.Now.ToShortDateString();
+    var mesg = "inside the block";
+    @:date is:@date1;
+    <br />
+    @mesg
+}
+<hr/>
+@{
+    var date2 = DateTime.Now.ToShortDateString();
+    var mesg1 = "another method of displaying";
+    <text>now date is:  </text>@date2
+    <br />
+    @mesg
+}
+@{
+    for (int i = 1; i <= 5; i++)
+    {
+        <h2>Value of i is: @i</h2>
+    }
+
+    var j = 10;
+    while (j < 20)
+    {
+        <p>Value of j is: @j</p>
+        <p>Wipro</p>
+    }
+
+}
+

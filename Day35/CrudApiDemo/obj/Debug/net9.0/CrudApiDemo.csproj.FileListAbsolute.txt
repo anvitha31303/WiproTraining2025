@@ -1,0 +1,8 @@
+C:\Users\hp\OneDrive\Desktop\wiprotraining\webapidemo_day35\CrudApiDemo\obj\Debug\net9.0\CrudApiDemo.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\wiprotraining\webapidemo_day35\CrudApiDemo\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\hp\OneDrive\Desktop\wiprotraining\webapidemo_day35\CrudApiDemo\obj\Debug\net9.0\CrudApiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\wiprotraining\webapidemo_day35\CrudApiDemo\obj\Debug\net9.0\CrudApiDemo.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\wiprotraining\webapidemo_day35\CrudApiDemo\obj\Debug\net9.0\CrudApiDemo.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\wiprotraining\webapidemo_day35\CrudApiDemo\obj\Debug\net9.0\CrudApiDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\wiprotraining\webapidemo_day35\CrudApiDemo\obj\Debug\net9.0\CrudApiDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\wiprotraining\webapidemo_day35\CrudApiDemo\obj\Debug\net9.0\CrudApiDemo.MvcApplicationPartsAssemblyInfo.cache

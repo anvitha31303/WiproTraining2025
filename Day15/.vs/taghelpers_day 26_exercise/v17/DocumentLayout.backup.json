@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\taghelpers_day 26_exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64C4EF-FD64-4072-B877-83B8A630B220}|taghelpers_day 26_exercise\\taghelpers_day 26_exercise.csproj|c:\\users\\hp\\source\\repos\\taghelpers_day 26_exercise\\taghelpers_day 26_exercise\\views\\std_htmlhelpertags.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F64C4EF-FD64-4072-B877-83B8A630B220}|taghelpers_day 26_exercise\\taghelpers_day 26_exercise.csproj|solutionrelative:taghelpers_day 26_exercise\\views\\std_htmlhelpertags.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64C4EF-FD64-4072-B877-83B8A630B220}|taghelpers_day 26_exercise\\taghelpers_day 26_exercise.csproj|c:\\users\\hp\\source\\repos\\taghelpers_day 26_exercise\\taghelpers_day 26_exercise\\views\\employee\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F64C4EF-FD64-4072-B877-83B8A630B220}|taghelpers_day 26_exercise\\taghelpers_day 26_exercise.csproj|solutionrelative:taghelpers_day 26_exercise\\views\\employee\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64C4EF-FD64-4072-B877-83B8A630B220}|taghelpers_day 26_exercise\\taghelpers_day 26_exercise.csproj|c:\\users\\hp\\source\\repos\\taghelpers_day 26_exercise\\taghelpers_day 26_exercise\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F64C4EF-FD64-4072-B877-83B8A630B220}|taghelpers_day 26_exercise\\taghelpers_day 26_exercise.csproj|solutionrelative:taghelpers_day 26_exercise\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64C4EF-FD64-4072-B877-83B8A630B220}|taghelpers_day 26_exercise\\taghelpers_day 26_exercise.csproj|c:\\users\\hp\\source\\repos\\taghelpers_day 26_exercise\\taghelpers_day 26_exercise\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F64C4EF-FD64-4072-B877-83B8A630B220}|taghelpers_day 26_exercise\\taghelpers_day 26_exercise.csproj|solutionrelative:taghelpers_day 26_exercise\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F64C4EF-FD64-4072-B877-83B8A630B220}|taghelpers_day 26_exercise\\taghelpers_day 26_exercise.csproj|c:\\users\\hp\\source\\repos\\taghelpers_day 26_exercise\\taghelpers_day 26_exercise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F64C4EF-FD64-4072-B877-83B8A630B220}|taghelpers_day 26_exercise\\taghelpers_day 26_exercise.csproj|solutionrelative:taghelpers_day 26_exercise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "std_htmlHelperTags.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\taghelpers_day 26_exercise\\taghelpers_day 26_exercise\\Views\\std_htmlHelperTags.cshtml",
+              "RelativeDocumentMoniker": "taghelpers_day 26_exercise\\Views\\std_htmlHelperTags.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\taghelpers_day 26_exercise\\taghelpers_day 26_exercise\\Views\\std_htmlHelperTags.cshtml",
+              "RelativeToolTip": "taghelpers_day 26_exercise\\Views\\std_htmlHelperTags.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T06:51:51.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\taghelpers_day 26_exercise\\taghelpers_day 26_exercise\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "taghelpers_day 26_exercise\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\taghelpers_day 26_exercise\\taghelpers_day 26_exercise\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "taghelpers_day 26_exercise\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T06:06:54.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\taghelpers_day 26_exercise\\taghelpers_day 26_exercise\\Views\\Employee\\Register.cshtml",
+              "RelativeDocumentMoniker": "taghelpers_day 26_exercise\\Views\\Employee\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\taghelpers_day 26_exercise\\taghelpers_day 26_exercise\\Views\\Employee\\Register.cshtml",
+              "RelativeToolTip": "taghelpers_day 26_exercise\\Views\\Employee\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T06:05:36.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\taghelpers_day 26_exercise\\taghelpers_day 26_exercise\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "taghelpers_day 26_exercise\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\taghelpers_day 26_exercise\\taghelpers_day 26_exercise\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "taghelpers_day 26_exercise\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:04:05.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\taghelpers_day 26_exercise\\taghelpers_day 26_exercise\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "taghelpers_day 26_exercise\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\taghelpers_day 26_exercise\\taghelpers_day 26_exercise\\Models\\Employee.cs",
+              "RelativeToolTip": "taghelpers_day 26_exercise\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:00:11.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
