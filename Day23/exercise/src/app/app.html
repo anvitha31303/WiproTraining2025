@@ -1,0 +1,50 @@
+<h1 style="text-align:center;">Student Management System</h1>
+<div class="card">
+  <h2>{{ editIndex === null ? 'Add New Student' : 'Update Student' }}</h2>
+  <form (ngSubmit)="saveStudent()" #f="ngForm">
+    <label>First Name:</label>
+    <input [(ngModel)]="fname" name="fname" placeholder="First Name" required>
+
+    <label>Last Name:</label>
+    <input [(ngModel)]="lname" name="lname" placeholder="Last Name" required>
+
+    <label>City:</label>
+    <input [(ngModel)]="city" name="city" placeholder="City" required>
+
+    <label>Marks:</label>
+    <input type="number" [(ngModel)]="marks" name="marks" placeholder="Marks" required>
+
+    <div class="btn-row">
+      <button type="submit" class="btn-green">{{ editIndex === null ? 'Add' : 'Update' }}</button>
+      <button type="button" (click)="clearForm()" class="btn-gray">Clear</button>
+    </div>
+  </form>
+</div>
+
+<div class="table-container" *ngIf="students.length > 0; else noData">
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>First</th>
+      <th>Last</th>
+      <th>City</th>
+      <th>Marks</th>
+      <th>Actions</th>
+    </tr>
+    <tr *ngFor="let s of students; let i = index">
+      <td>{{ s.id }}</td>
+      <td>{{ s.fname }}</td>
+      <td>{{ s.lname }}</td>
+      <td>{{ s.city }}</td>
+      <td>{{ s.marks }}</td>
+      <td>
+        <button (click)="editStudent(i)" class="btn-blue">Edit</button>
+        <button (click)="deleteStudent(i)" class="btn-red">Delete</button>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<ng-template #noData>
+  <p style="text-align:center; color:gray; font-style:italic;">No students yet.</p>
+</ng-template>

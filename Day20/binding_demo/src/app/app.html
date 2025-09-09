@@ -1,0 +1,58 @@
+<h3>Differnt Binding Types in angular</h3>
+
+<p>Interpolation</p>
+<h5>
+Addition of 3 and 5 with Interpolation is {{3+5}}
+</h5>
+<h5>
+Addition of 3 and 5 without Interpolation is 3+5
+</h5>
+
+/*This is a one-way binding that displays compone
+
+- /*in the template.
+
+<p>Welcome, {{ name }}!</p>
+
+<p>Your age is {{ age }}.</p>
+
+
+
+<p>Property Binding</p>
+<h2>Property Binding Example</h2>
+
+<!-- Property binding: value attribute of input gets data from inputValue -->
+<input [value]="inputValue" />
+
+<!-- Just to show the variable value -->
+<p>Current value in component: {{ inputValue }}</p>
+
+
+<h5> Title is {{ title1 }} </h5>
+
+<h5>Learning Property binding on {{ classtype }}</h5>
+
+
+<h2>Property Binding Example with Button</h2>
+<button 
+  [style.height]="btnHeight" 
+  [style.width]="btnWidth">
+  {{ btnLabel }}
+</button>
+
+<h2>Event Binding Example</h2>
+<button (click)="addProduct()">Click Me</button>
+<p>{{ message }}</p>
+
+<p>Two-way Binding</p>
+<input [value]="firstname" (input)="firstname = $event.target.value"/>
+<p>Welcome, {{ firstname }}!</p>
+
+<!--using ngmodule-->
+<h2>Two-Way Binding Example</h2>
+
+<!-- Two-way binding -->
+<input [(ngModel)]="firstname" placeholder="Enter your name" />
+
+<h1>using ngmodule</h1>
+<p>Hello, {{ firstname }}!</p>
